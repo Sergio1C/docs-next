@@ -26,7 +26,7 @@ If you’d like to learn more about Vue before diving in, we <a id="modal-player
 The official guide assumes intermediate level knowledge of HTML, CSS, and JavaScript. If you are totally new to frontend development, it might not be the best idea to jump right into a framework as your first step - grasp the basics then come back! Prior experience with other frameworks helps, but is not required.
 :::
 
-The easiest way to try out Vue.js is using the [Hello World example](https://codepen.io/team/Vue/pen/KKpRVpx). Feel free to open it in another tab and follow along as we go through some basic examples.
+The easiest way to try out Vue.js is using the [Hello World example](https://codepen.io/sergio1c/pen/NWQVWRZ). Feel free to open it in another tab and follow along as we go through some basic examples.
 
 The [Installation](installation.md) page provides more options of installing Vue. Note: We **do not** recommend that beginners start with `vue-cli`, especially if you are not yet familiar with Node.js-based build tools.
 
